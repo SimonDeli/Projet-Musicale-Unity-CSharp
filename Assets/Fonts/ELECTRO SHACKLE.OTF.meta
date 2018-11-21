@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eb9f0dc9db4a0494d97790bf9c2a2e89
+timeCreated: 1516110224
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Electro Shackle
+  fontNames:
+  - Electro Shackle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
